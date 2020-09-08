@@ -3,17 +3,17 @@ Tantangan akhir semester mata pelajaran **Pemrograman Berorientasi Objek** kelas
 Buatlah sebuah projek dari 3 tema yang sudah ditentukan.
 
 # 📚 Tema
-#### 1. Use Technology to Solve a Problem in the Class
+#### 1. Build an App. to Solve a Problem in the Class
   contoh projek:
   - Absensi Kelas Online Berbasis Web
   - Nilai Harian Online
   - Agenda Belajar Kelas
-#### 2. Use Technology to Solve a Problem in the School
+#### 2. Build an App. to Solve a Problem in the School
 contoh projek:
   - Ujian Online?
   - Pemilihan Ketua OSIS Online
   - Aplikasi Pencarian Buku di Rak Perpustakaan
-#### 3. Use Technology to Build a Creative Interactive App/Game
+#### 3. Build a Creative Interactive App./Game
 contoh projek:
   - Birthday Card / [Example](https://bday.zulhilmi.id/) / [Source code](https://github.com/hilmizul/bday)
   - Space Math using Voice Control / [Example](https://spacemath.zulhilmi.id/) / [Source code](https://github.com/hilmizul/space-math)
